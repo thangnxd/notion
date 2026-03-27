@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
-  background-color: rgba(0, 0, 0); /* thay vì blank */
+  background-color: transparent ; /* thay vì blank */
   margin: 0; /* tránh có viền trắng thừa */
   padding: 0;
 }
